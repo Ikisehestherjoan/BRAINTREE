@@ -64,7 +64,7 @@ The list should include the columns:
 
  Asia  | Europe | Rest of World 
 ------ | ------ | -------------
-25.0%  | 25.0%  | 50.0%
+28.3%  | 42.3%  | 29.4%
 
 4a\. What is the count of countries and sum of their related gdp_per_capita values for the year 2007 where the string 'an' (case insensitive) appears anywhere in the country name?
 
